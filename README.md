@@ -43,17 +43,15 @@ If you find this repo useful for your research, please consider citing the paper
   issn = {0167-8655},
   doi = {https://doi.org/10.1016/j.patrec.2023.03.023},
   url = {https://www.sciencedirect.com/science/article/pii/S0167865523000880},
-  author = {Yong Xuan Tan and Chin Poo Lee and Mai Neo and Kian Ming Lim and Jit Yan Lim},
-  keywords = {Text-to-image-synthesis, Generative adversarial network, Self-supervised learning, GAN},
-  abstract = {Text-to-image synthesis is challenging as generating images that are visually realistic and semantically consistent with the given text description involves multi-modal learning with text and image. To address the challenges, this paper presents a text-to-image synthesis model that utilizes self-supervision and bi-stage image distribution architecture, referred to as the Self-Supervised Bi-Stage Generative Adversarial Network (SSBi-GAN). The self-supervision diversifies the learned representation thus improving the quality of the synthesized images. Besides that, the bi-stage architecture with Residual network enables the generation of larger images with finer visual contents. Not only that, some enhancements including L1 distance, one-sided smoothing and feature matching are incorporated to enhance the visual realism and semantic consistency of the images as well as the training stability of the model. The empirical results on Oxford-102 and CUB datasets corroborate the ability of the proposed SSBi-GAN in generating visually realistic and semantically consistent images.}
+  author = {Yong Xuan Tan and Chin Poo Lee and Mai Neo and Kian Ming Lim and Jit Yan Lim}
 }
 ```
 
 ## Contacts
 For any questions, please contact: <br/>
 
-Yong Xuan Tan (1141124379@student.mmu.edu.my) <br/>
-Jit Yan Lim (lim.jityan@mmu.edu.my)
+Yong Xuan Tan (yongxuan95@gmail.com) <br/>
+Jit Yan Lim (jityan95@gmail.com)
 
 ## Acknowlegements
 - [Text-to-Image Synthesis](https://github.com/aelnouby/Text-to-Image-Synthesis)
